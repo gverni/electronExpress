@@ -1,7 +1,7 @@
 # electronExpress
 Sample electron application that run express. It's based on electron version 1.2.0 and express 4.14.0. 
 
-To install dependencies and start use
+After you've cloned/downaloded the repository, use the following command to install dependencies and run the app: 
 
 ```
  npm install && npm start
